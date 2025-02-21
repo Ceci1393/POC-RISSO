@@ -15,7 +15,7 @@ Pandas, NumPy (para manipulación y análisis de datos)
 Matplotlib / Seaborn (para visualización de métricas)
 Modelos de IA:
 ChatGPT (para procesamiento de lenguaje natural)
-Modelos de texto-imagen (ej. DALL·E) para generar contenido visual
+Modelos de texto-imagen: Nightcafe para generar contenido visual
 Infraestructura: Servidores en la nube y API Gateway para la integración y monitoreo.
 Metodología
 Análisis y Diseño:
